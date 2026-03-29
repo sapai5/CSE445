@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-               xsi:noNamespaceSchemaLocation="YOUR_XSD_URL_HERE">
+               xsi:noNamespaceSchemaLocation="https://saapi5.github.io/CSE445/NationalParks.xsd">
 
   <NationalPark Rating="3.7">
     <Name>Bryce Canyon</Name>
