@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="https://sapai5.github.io/CSE445/NationalParks"
+           xmlns="https://sapai5.github.io/CSE445/NationalParks"
+           elementFormDefault="qualified">
 
   <xs:element name="NationalParks">
     <xs:complexType>
