@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NationalPark xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-               xsi:noNamespaceSchemaLocation="https://sapai5.github.io/CSE445/NationalParks.xsd">
+              xsi:noNamespaceSchemaLocation="https://sapai5.github.io/CSE445/NationalParks.xsd">
 
   <NationalPark Rating="3.7">
     <Name>Bryce Canyon</Name>
@@ -56,7 +56,6 @@
 
   <NationalPark>
     <Name>Great Smoky Mountains</Name>
-    <Phone>865-774-2938</Phone>
     <Address>
       <Number>107</Number>
       <Street>Park Headquarters Road</Street>
@@ -88,7 +87,7 @@
       <City>Bar Harbor</City>
       <State>ME</State>
       <Zip>04609</Zip>
-
+    </Address>
   </NationalPark>
 
   <NationalPark>
